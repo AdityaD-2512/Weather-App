@@ -1,0 +1,8 @@
+.InfoBox{                   /*only heading align to center not card*/
+    text-align: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
